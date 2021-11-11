@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(194, 175, 161);
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+#header_image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+p{
+    text-align: center;
+}
+#p_name{
+    text-align: left;
+}
+#p2{
+    text-align: left;
+}
